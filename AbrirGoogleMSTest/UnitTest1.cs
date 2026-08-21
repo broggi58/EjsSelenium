@@ -17,6 +17,8 @@ namespace AbrirGoogleMSTest
             element.SendKeys("Hola");
             element.Submit();
 
+            driver.Quit();
+
         }
     }
 }
