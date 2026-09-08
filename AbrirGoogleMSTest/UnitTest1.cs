@@ -16,7 +16,7 @@ namespace AbrirGoogleMSTest
             IWebElement element = driver.FindElement(By.Name("q"));
             element.SendKeys("Hola");
             element.Submit();
-            //Comentario prueba
+            
             driver.Quit();
 
         }
