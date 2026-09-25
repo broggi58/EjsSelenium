@@ -1,0 +1,7 @@
+is_global = true
+build_property.IsMSTestTestAdapterReferenced = true
+build_property.PublishAot = 
+build_property.RunAOTCompilation = 
+build_property.MSTestSourceGenMode = ReflectionFree
+build_property.RootNamespace = EncontrarElementos
+build_property.ProjectDir = C:\Users\Usuario\Documents\EjsSelenium\EncontrarElementos\
